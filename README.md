@@ -1,4 +1,4 @@
-Fizz Buzz React App
+Fizz Buzz React App (NOT MAINTAINED)
 
 ### `ABOUT PROJECT`
 Project is created using react components that show the numbers from 1 to a limit that is specified by a prop (e.g. 100).
